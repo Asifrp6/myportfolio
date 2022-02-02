@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0; 
+    
+}
+main{
+    background-color: #aed6f149;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+}
+h5{
+    color: #eeecf3;
+    background: rgba(67, 67, 75, 0.822);
+}
+
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+}
+
+.p-size{
+    font-family: poppins;
+    color: #101111;
+}
+span{
+    color: #E76F51;
+}
+.header-p{
+    font-family: Poppins;
+    font-style: normal;
+}
+header{
+    background-color: #AED6F1;
+}
+.navbar{
+    background-color: #d5f5e3;
+}
+
+.navbar-brand{
+        font-family: Poppins;
+        font-size: 2rem;
+        font-weight: 600;
+    }
+.navbar a{
+    font-family: Poppins;
+        color: #111111;
+    }
+
+
+.card img{
+    height: 11rem;
+    width: 12rem;
+}
+
+.card-size{ 
+    width: 20rem;
+    height: 31rem;
+    overflow:hidden;
+}
+.card:hover {
+    box-shadow: 10px 10px 5px  grey;
+    background-color: rgb(177, 226, 255);
+  }
+ .slide:hover {
+    box-shadow: 10px 10px 5px  grey;
+    
+  }
+.icon{
+    color: #f8fc06;
+    background-color: #033549d7;
+}
+.last-sec-img{
+height: 423.5px;
+}
+#comfortZone{
+    background-color: #D5F5E3;
+}
+
+#projects{
+    background-color: #D5F5E3;
+}
+
+#myContacts{
+    background-color: #D5F5E3;
+}
+
+
+.p_div_hight{
+    height: 9rem;
+    overflow:auto;    
+}
+
+.contact .contact-content .row i{  
+    color: crimson;
+}
+
+.contact .contact-content .info .sub-title{
+    color: #333;
+}
+
+/* footer section styling */
+footer{
+    background: #111;
+    color: #fff;
+    text-align: center;
+}
+
+footer span a{
+    color: crimson;
+    text-decoration: none;
+}
+
+footer span a:hover{
+    text-decoration: underline;
+}
